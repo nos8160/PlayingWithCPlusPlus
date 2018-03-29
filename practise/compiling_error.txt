@@ -1,0 +1,4 @@
+/media/nazrul/personal/nazrul/Works/C++/practise/inc.cpp: In function ‘int main()’:
+/media/nazrul/personal/nazrul/Works/C++/practise/inc.cpp:5:3: error: ‘x’ was not declared in this scope
+   x = ++i* ++i;
+   ^
