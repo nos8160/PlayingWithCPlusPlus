@@ -89,7 +89,7 @@ int main()
                     countTemp++;
                     arrTotal[0][k]=-1;
                 }
-            }
+            }w
             j++;
         }
         if(countDis>0 && countDis>=minPts)

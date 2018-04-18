@@ -1,12 +1,12 @@
 #include<iostream>
 using namespace std;
-int *rec(int num){
 	int *ptr;
+	int* rec(int num){
 	return ptr;
 }
 int main(){
 	int x = 100 , y = 200;
 	cout<<*rec(x)<<endl;
-	
-	
+
+
 }

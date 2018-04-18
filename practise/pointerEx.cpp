@@ -1,6 +1,6 @@
-//dynamic allocation of memory/two dimensional array 
 #include<iostream>
 using namespace std;
+//dynamic allocation of memory/two dimensional array 
 int main(){
 	int **ptr = new int *[2];
 	for(int i =0;i<2;i++){
