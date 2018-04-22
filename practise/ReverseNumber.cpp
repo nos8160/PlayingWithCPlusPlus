@@ -41,6 +41,6 @@ bool isPalindrome(int number){
 int main(){
     int number;
     cin>>number;
-    cout<<isPalindrome(number)<<endl;
+    cout<<reverseNumber<<endl;
 
 }
